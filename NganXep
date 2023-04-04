@@ -99,3 +99,4 @@ int main(){
     printf("Stack sau khi pop la\n");
     Output(s);
 }
+//https://laptrinhtudau.com/cai-dat-ngan-xep-stack-bang-mang-c-c/
