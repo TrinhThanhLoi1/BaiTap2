@@ -33,3 +33,4 @@ int main(){
     Xuat(a,n);
     InterchangeSort(a,n);
 }
+//https://laptrinhtudau.com/bai-tap-thuat-toan-sap-xep-doi-cho-truc-tiep-interchange-sort-trong-c/
